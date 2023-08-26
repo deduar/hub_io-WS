@@ -1,0 +1,676 @@
+['https://thehub.io/startups/watery-aps', 'https://thehub.io/startups/pluto', 'https://thehub.io/startups/comundo', 'https://thehub.io/startups/takt', 'https://thehub.io/startups/chainge', 'https://thehub.io/startups/kitex', 'https://thehub.io/startups/sustainia', 'https://thehub.io/startups/seasony', 'https://thehub.io/startups/scicular', 'https://thehub.io/startups/tise', 'https://thehub.io/startups/vove', 'https://thehub.io/startups/ecotree', 'https://thehub.io/startups/ento-labs', 'https://thehub.io/startups/reflow-maritime', 'https://thehub.io/startups/soilsense-1', 'https://thehub.io/startups/nature-preserve-aps', 'https://thehub.io/startups/beyond-leather-materials-aps', 'https://thehub.io/startups/bewo', 'https://thehub.io/startups/tribe-takeaway', 'https://thehub.io/startups/kring', 'https://thehub.io/startups/andlight', 'https://thehub.io/startups/cvx-ventures-1', 'https://thehub.io/startups/klimate', 'https://thehub.io/startups/regulars', 'https://thehub.io/startups/self', 'https://thehub.io/startups/goodwings-1', 'https://thehub.io/startups/reshape-biotech', 'https://thehub.io/startups/reshopper', 'https://thehub.io/startups/yuman', 'https://thehub.io/startups/lun']
+****************
+Name: Watery ApS
+Logo: https://thehub-io.imgix.net/files/s3/20210427110526-e576dc03d385ad0611667ae5320912aa.png?fit=crop&w=300&h=300&auto=format&q=60
+Denmark
+watery.dk
+2016
+11-50
+Consumer Goods, IT & Software, Marketplace & eCommerce
+B2C
+Seed
+/_nuxt/b5a4f8ecd2f13c06595fde19b1e8023e.svg
+/_nuxt/12f378f2a92906e8d4c0ea4d61d0bd26.svg
+Daniel Johannesen
+Founder, Founder & CEO
+https://www.linkedin.com/in/daniel-j-986941a8/
+--------------------
+Name: Pluto Technologies
+Logo: https://thehub-io.imgix.net/files/s3/20200519152456-a8bcfde9868f904a0c63d6331d05db52.png?fit=crop&w=300&h=300&auto=format&q=60
+Denmark, Sweden, Norway
+pluto.page
+2019
+11-50
+IT & Software, SaaS, Science & Engineering, Robotics
+B2G
+Bootstrapping
+/_nuxt/5ad8b6c154f6ad08924428537b89dfd8.svg
+/_nuxt/68160a8c7545790ed518bd87a15089d6.svg
+/_nuxt/b5a4f8ecd2f13c06595fde19b1e8023e.svg
+Johan Bender
+Founder, CEO
+https://www.linkedin.com/in/johanbender/
+Jesper  Henrichsen
+Founder, CTO
+https://www.linkedin.com/in/jesper-henrichsen-5a400489/
+--------------------
+Name: comundo
+Logo: https://thehub-io.imgix.net/files/s3/20221205114502-2bd31673dabeea5a330c33deadf8cab7.jpg?fit=crop&w=300&h=300&auto=format&q=60
+Denmark
+comundo.io
+2022
+11-50
+Energy & Greentech
+B2B
+Pre-seed
+/_nuxt/f4042eb4a9711fcae6ea657d5728ec0f.svg
+/_nuxt/68160a8c7545790ed518bd87a15089d6.svg
+/_nuxt/bb613f4716450ddf91e2e5bcd0a37b1e.svg
+Alexander Tolstrup
+Founder, CSO
+Jonas Bruhn
+Founder, CRDO
+Palle Hansen
+Founder, CFO
+Sverre Dueholm
+Founder, CEO
+--------------------
+Name: TAKT
+Logo: https://thehub-io.imgix.net/files/s3/20220810134221-1e3aa92eda0c5bc5d84e6d74878d5257.jpg?fit=crop&w=300&h=300&auto=format&q=60
+Denmark
+taktcph.com
+2018
+11-50
+Fashion & Living
+B2C, B2B
+Series A
+/_nuxt/5ad8b6c154f6ad08924428537b89dfd8.svg
+/_nuxt/b5a4f8ecd2f13c06595fde19b1e8023e.svg
+/_nuxt/bb613f4716450ddf91e2e5bcd0a37b1e.svg
+Sofie Neble
+Brand Activation Manager
+Marco Monaco
+Finance Director
+Christian Lindkvist
+Regional Sales Manager
+--------------------
+Name: Chainge
+Logo: https://thehub-io.imgix.net/files/s3/20210716080015-8d3717d25f6b1dbae8d170a9bc5ac1b9.png?fit=crop&w=300&h=300&auto=format&q=60
+Denmark
+chainge.dk
+2019
+51-100
+Energy & Greentech, Maritime & Transport, Food & Beverage
+B2C, B2B
+Seed
+/_nuxt/5ad8b6c154f6ad08924428537b89dfd8.svg
+/_nuxt/68160a8c7545790ed518bd87a15089d6.svg
+/_nuxt/bb613f4716450ddf91e2e5bcd0a37b1e.svg
+Paul Blakemore
+Founder, CEO
+https://www.linkedin.com/in/pblakemore/
+--------------------
+Name: KiteX
+Logo: https://thehub-io.imgix.net/files/s3/20210112103337-10b27396fd7cff816f25bc21c1787874.png?fit=crop&w=300&h=300&auto=format&q=60
+Denmark
+kitex.tech
+2020
+1-10
+Energy & Greentech
+B2C, B2G
+Pre-seed
+/_nuxt/f4042eb4a9711fcae6ea657d5728ec0f.svg
+/_nuxt/bb613f4716450ddf91e2e5bcd0a37b1e.svg
+Andreas Okholm
+Founder, Founder & CEO
+linkedin.com/in/andreas-okholm
+Christoffer  Sigshøj
+Founder, Founder & Mech. & Production Engineer
+https://www.linkedin.com/in/christoffer-sigshoj/
+--------------------
+Name: Sustainia
+Logo: https://thehub-io.imgix.net/files/s3/20220301114243-c3e60d57d125e1d44aad806e5b08f438.png?fit=crop&w=300&h=300&auto=format&q=60
+Denmark
+sustainiaworld.com
+2009
+1-10
+Education, Energy & Greentech, Media & Entertainment, Fintech, IT & Software
+B2B
+Series B+
+/_nuxt/53407a05575517858a467c432f25ced3.svg
+/_nuxt/5ad8b6c154f6ad08924428537b89dfd8.svg
+/_nuxt/bb613f4716450ddf91e2e5bcd0a37b1e.svg
+Rasmus Schjødt Pedersen
+Partner & CEO
+https://www.linkedin.com/in/rasmuspedersen
+Lindsey Chaffin
+Project Manager
+https://www.linkedin.com/in/lindseychaffin/
+--------------------
+Name: Seasony
+Logo: https://thehub-io.imgix.net/files/s3/20230216115056-73a36e5ff59a28126d74ce0d9345ba39.png?fit=crop&w=300&h=300&auto=format&q=60
+Denmark, Norway
+seasony.io
+2018
+11-50
+Agriculture, Robotics
+B2B
+Pre-seed
+/_nuxt/38fa681661e416c4ba379795d03c2bb2.svg
+/_nuxt/68160a8c7545790ed518bd87a15089d6.svg
+/_nuxt/b5a4f8ecd2f13c06595fde19b1e8023e.svg
+Christopher Weis Thomasen
+Founder, CEO, Co-founder
+https://www.linkedin.com/in/christopher-weis-thomasen/
+Servet Coskun
+Founder, CTO, Co-founder
+https://www.linkedin.com/in/servet-coskun
+Erkan Taskiran
+Founder, COO, Co-founder
+https://www.linkedin.com/in/erkan-taskiran/
+--------------------
+Name: Matr Foods
+Logo: https://thehub-io.imgix.net/files/s3/20220921144601-dc09b231bf919aa26a827d91e49c8059.jpg?fit=crop&w=300&h=300&auto=format&q=60
+Denmark
+scicular.com
+2021
+1-10
+Food & Beverage
+B2C
+Pre-seed
+/_nuxt/38fa681661e416c4ba379795d03c2bb2.svg
+/_nuxt/b5a4f8ecd2f13c06595fde19b1e8023e.svg
+/_nuxt/bb613f4716450ddf91e2e5bcd0a37b1e.svg
+Line Kloster
+Founder, Cofounder Tech Development
+https://www.linkedin.com/in/line-kloster-pedersen-533971133/
+Randi Wahlsten
+CEO
+Nikolaj Madsen
+Product Development Wizard
+--------------------
+Name: Tise
+Logo: https://thehub-io.imgix.net/files/s3/20220310213846-0b28051e9c480d965b560150316ae310.jpg?fit=crop&w=300&h=300&auto=format&q=60
+Denmark, Sweden, Finland, Norway
+tise.com
+2015
+11-50
+Consumer Goods, Energy & Greentech, IT & Software
+B2C
+Seed
+/_nuxt/b5a4f8ecd2f13c06595fde19b1e8023e.svg
+Eirik Rime
+CEO
+--------------------
+Name: vove
+Logo: https://thehub-io.imgix.net/files/s3/20210609135511-50e75c7ede38b781a5881c1ca78a0b15.jpg?fit=crop&w=300&h=300&auto=format&q=60
+Denmark
+vove.co
+2020
+1-10
+Consumer Goods, IT & Software, Marketplace & eCommerce
+B2C, B2B, Marketplace
+Seed
+/_nuxt/b5a4f8ecd2f13c06595fde19b1e8023e.svg
+/_nuxt/bb613f4716450ddf91e2e5bcd0a37b1e.svg
+/_nuxt/12f378f2a92906e8d4c0ea4d61d0bd26.svg
+Kevin Bendixen Vollquartz
+Founder, Founder & CEO
+--------------------
+Name: EcoTree
+Logo: https://thehub-io.imgix.net/files/s3/20210713090006-e8c3bd9f4fabb172fd4f68822d8682d1.png?fit=crop&w=300&h=300&auto=format&q=60
+Denmark
+ecotree.green
+2016
+51-100
+Energy & Greentech
+Marketplace
+Series A
+/_nuxt/b5a4f8ecd2f13c06595fde19b1e8023e.svg
+/_nuxt/bb613f4716450ddf91e2e5bcd0a37b1e.svg
+/_nuxt/662edba2bbd499839d4100bec2ac375b.svg
+Thomas Canguilhem
+CEO
+Alex Damache
+Graphic Designer
+Kia Christina Eg
+Digital Marketing & Growth
+Kristoffer Sparre
+Business Developer (DK)
+--------------------
+Name: Ento
+Logo: https://thehub-io.imgix.net/files/s3/20230424130915-f1200a70118dca5e1fcba1eb8ab27417.png?fit=crop&w=300&h=300&auto=format&q=60
+Denmark
+ento.ai
+2019
+11-50
+Energy & Greentech, IT & Software, SaaS
+B2B
+Seed
+/_nuxt/f4042eb4a9711fcae6ea657d5728ec0f.svg
+Henrik Brink
+Founder, CEO
+https://www.linkedin.com/in/henrikbrink/
+Kasper Bjørn Nielsen
+Founder, CTO
+https://www.linkedin.com/in/kasper-bj%C3%B8rn-nielsen/
+Malte Frederiksen
+Founder, CCO
+https://www.linkedin.com/in/maltecf/
+--------------------
+Name: ReFlow 
+Logo: https://thehub-io.imgix.net/files/s3/20220704103402-88d1157110bff719ff80b0deb1578de7.png?fit=crop&w=300&h=300&auto=format&q=60
+Denmark
+re-flow.io
+2018
+11-50
+Energy & Greentech, IT & Software, Maritime & Transport, SaaS, Manufacturing, Science & Engineering
+B2B
+Seed
+/_nuxt/5ad8b6c154f6ad08924428537b89dfd8.svg
+/_nuxt/b5a4f8ecd2f13c06595fde19b1e8023e.svg
+/_nuxt/bb613f4716450ddf91e2e5bcd0a37b1e.svg
+Rasmus Elsborg-Jensen
+Founder, CEO & Founder
+https://www.linkedin.com/in/jensenra/
+Patrick Nørregaard
+COO & Lead Environmental Engineer
+https://www.linkedin.com/in/patrick-uldall-n%C3%B8rregaard-4857435b/
+Thameur Saadi
+CTO & Lead Developer
+https://www.linkedin.com/in/thameur-saadi-7a7a1b109/
+--------------------
+Name: SoilSense
+Logo: https://thehub-io.imgix.net/files/s3/20210122082510-bd654394b87d3cddb6f46b4f2d98bf3c.png?fit=crop&w=300&h=300&auto=format&q=60
+Denmark
+soilsense.io
+2017
+1-10
+Energy & Greentech, Agriculture, Science & Engineering, IoT
+B2B
+Seed
+/_nuxt/dbb1f49e4b3178614043747c6b172ee6.svg
+/_nuxt/b5a4f8ecd2f13c06595fde19b1e8023e.svg
+/_nuxt/bb613f4716450ddf91e2e5bcd0a37b1e.svg
+Jesper Alkestrup
+Founder, CEO
+Søren Svendsen
+Project manager
+Morten  Nygaard
+CCO
+--------------------
+Name: Nature Preserve ApS
+Logo: https://thehub-io.imgix.net/files/s3/20211207110240-3060055f80ffde13a055b3fb30bbc2a8.png?fit=crop&w=300&h=300&auto=format&q=60
+Denmark
+naturepreserve.co
+2018
+1-10
+Consumer Goods, Energy & Greentech, IT & Software, SaaS, Manufacturing, Agriculture, Food & Beverage, IoT
+B2B
+Pre-seed
+/_nuxt/5ad8b6c154f6ad08924428537b89dfd8.svg
+/_nuxt/b5a4f8ecd2f13c06595fde19b1e8023e.svg
+/_nuxt/bb613f4716450ddf91e2e5bcd0a37b1e.svg
+Anantha Peramuna
+Founder, CEO
+https://www.linkedin.com/in/anantha-peramuna/
+Hansol Bae
+Founder, CSO
+https://www.linkedin.com/in/hansolbae/
+Alex  García Ingrisano
+Founder, COO
+https://www.linkedin.com/in/agarciaingrisano/
+--------------------
+Name: Beyond Leather Materials ApS
+Logo: https://thehub-io.imgix.net/files/s3/20220303153242-ce89a58c529b19006aecb0c63b3633c8.jpg?fit=crop&w=300&h=300&auto=format&q=60
+Denmark
+explore-leap.com
+2017
+1-10
+Manufacturing, Fashion & Living
+B2B
+Seed
+/_nuxt/5ad8b6c154f6ad08924428537b89dfd8.svg
+/_nuxt/b5a4f8ecd2f13c06595fde19b1e8023e.svg
+/_nuxt/bb613f4716450ddf91e2e5bcd0a37b1e.svg
+Mikael Eydt
+Founder, CEO
+https://www.linkedin.com/in/mikael-eydt-999978123/
+Hannah Michaud
+Founder, CCO
+https://www.linkedin.com/in/hannahmichaud/
+Xianrong Shao
+Technical lead
+https://www.linkedin.com/in/xianrong-shao-825994a0/
+Anna Clausen
+Textile designer
+https://www.linkedin.com/in/anna-wad-clausen-8926b5131/
+Jens Gørløv
+Head of Production
+Carla Martin Chinarro
+Material Scientist
+https://www.linkedin.com/in/carla-martin-chinarro-175619146/
+Fruzsina Somody
+Communication Specialist
+https://www.linkedin.com/in/fruzsina-somody-3b7abb100/
+--------------------
+Name: BeWo
+Logo: https://thehub-io.imgix.net/files/s3/20220525114957-45c66749ca6adc236f70de64851361e0.png?fit=crop&w=300&h=300&auto=format&q=60
+Denmark
+bewo.io
+2020
+1-10
+Energy & Greentech, IT & Software
+B2B
+Pre-seed
+/_nuxt/b461a42f95ae2d1d5fa122d7a2073412.svg
+/_nuxt/b5a4f8ecd2f13c06595fde19b1e8023e.svg
+/_nuxt/bb613f4716450ddf91e2e5bcd0a37b1e.svg
+Mikkel Bering Alstrup
+Founder, CEO & Co-Founder
+https://www.linkedin.com/in/mikkel-bering-alstrup-205b9b173/
+Allan Tharuman
+Founder, Chairman & Co-Founder
+https://www.linkedin.com/in/tharuman/
+Jacob Bruun
+Founder, CTO & Co-Founder
+https://www.linkedin.com/in/jacob-bruun-589313157/
+Thor Larsen
+Commercial Lead
+--------------------
+Name: Tribe
+Logo: https://thehub-io.imgix.net/files/s3/20211020112651-9e441450dc278e46eefa5d33833d89d4.png?fit=crop&w=300&h=300&auto=format&q=60
+Denmark
+tribehappiness.com
+2018
+1-10
+IT & Software, SaaS, Marketplace & eCommerce, Retail, Food & Beverage
+B2B, Marketplace
+Seed
+/_nuxt/38fa681661e416c4ba379795d03c2bb2.svg
+Mikkel Mads
+Founder, CEO
+https://www.linkedin.com/in/mikkelmadsandersen/
+Kasper Nikolaj
+Founder, CPO
+David
+Head of Sales
+Nicolai
+CTO
+Emil
+Full stack developer
+Jakob Algreen-Ussing
+Chairman of the board
+Per   Udo Severinsen
+Member of the Board
+Martin Fog
+CFO
+Marcus Svendsen
+Legal
+Mik Strøyberg
+Advisor (Founder: Good Monday)
+Per Frederiksen
+Advisor (Managing Partner at Core Sustainability Capital)
+--------------------
+Name: KRING
+Logo: https://thehub-io.imgix.net/files/s3/20220301122744-00e407e71cc1248c50e848adc356d9a7.png?fit=crop&w=300&h=300&auto=format&q=60
+Denmark
+kring.com
+2011
+1-10
+Energy & Greentech, Healthcare & Life Science, IT & Software, SaaS, Service
+B2C, B2B
+Bootstrapping
+/_nuxt/edd9986671672f80cd521c1e8de47bd7.svg
+/_nuxt/f4042eb4a9711fcae6ea657d5728ec0f.svg
+/_nuxt/5ad8b6c154f6ad08924428537b89dfd8.svg
+Martin Kring
+Founder, Co-founder and Partner
+https://www.linkedin.com/in/martinkring/
+Jesper Kring
+Founder, Co-Founder and Partner
+Jacob Madsen
+Managing Partner
+Mads Misiak Friis
+Partner
+Thomas Klitbo
+Chairman for the investment Comittee
+Johan Duus Terkelsen
+Growth Hacker
+Luna Gyalokay
+Venture Builder
+Oscar Junker
+Venture Analyst
+Mads Roni Feldbæk Nielsen
+Venture Analyst
+Andreas Væring
+Venture Analyst
+--------------------
+Name: AndLight
+Logo: https://thehub-io.imgix.net/files/s3/20220523065646-2d64a3b82d575853a8d67dc69b0f835c.png?fit=crop&w=300&h=300&auto=format&q=60
+Denmark
+andlight.dk
+2007
+11-50
+Marketplace & eCommerce, Sales & Marketing, Fashion & Living
+B2C
+Bootstrapping
+/_nuxt/b5a4f8ecd2f13c06595fde19b1e8023e.svg
+/_nuxt/bb613f4716450ddf91e2e5bcd0a37b1e.svg
+Casper Brix
+Chief Brand Officer
+Gustav Lauritzen
+Chief Marketing Officer
+Mads Saabye Jørgensen
+Chief Executive Officer
+--------------------
+Name: CVX Ventures
+Logo: https://thehub-io.imgix.net/files/s3/20230315141159-fe780aba7023e1b6c5a4eec34d691134.jpg?fit=crop&w=300&h=300&auto=format&q=60
+Denmark
+cvx.vc
+2020
+11-50
+IT & Software, SaaS, Food & Beverage, Sales & Marketing
+B2C, B2B
+Bootstrapping
+/_nuxt/f4042eb4a9711fcae6ea657d5728ec0f.svg
+/_nuxt/53407a05575517858a467c432f25ced3.svg
+/_nuxt/bb613f4716450ddf91e2e5bcd0a37b1e.svg
+Mikkel  Fruergaard
+Group CEO
+Louis Wolff-Petersen
+Head of Partner Relations
+Emil  K. Have
+Head of Board and Advisory
+Magnus Damgaard
+Venture Analyst
+--------------------
+Name: Klimate
+Logo: https://thehub-io.imgix.net/files/s3/20211003174333-365208676c925b6a967c97d4ad0ae449.png?fit=crop&w=300&h=300&auto=format&q=60
+Denmark
+klimate.co
+2020
+11-50
+Energy & Greentech
+B2B, Marketplace
+Seed
+/_nuxt/b5a4f8ecd2f13c06595fde19b1e8023e.svg
+/_nuxt/bb613f4716450ddf91e2e5bcd0a37b1e.svg
+/_nuxt/a1fef3b365fbdd6dd4b82368f861e6a2.svg
+Katja Grothe-Eberhardt
+Founder, CEO & Founder
+https://www.linkedin.com/in/katja-grothe-eberhardt-05566233/
+Mads Emil Dalsgaard
+Founder, CCO & Co-founder
+https://www.linkedin.com/in/madsemil/
+Simon Bager
+Founder, Chief Sustainability Officer & Co-founder
+https://www.linkedin.com/in/simonbager/
+Simon Lauwerier
+Head of Product & UX
+https://www.linkedin.com/in/simonlauwerier/
+--------------------
+Name: Regulars
+Logo: https://thehub-io.imgix.net/files/s3/20230211182200-2a78421bbe8a442c3ece0af085634121.png?fit=crop&w=300&h=300&auto=format&q=60
+Denmark
+regulars.cards
+2020
+1-10
+IT & Software, SaaS, Food & Beverage, Travel & Tourism, Hospitality, Hosting
+B2C, B2B
+Bootstrapping
+/_nuxt/b5a4f8ecd2f13c06595fde19b1e8023e.svg
+/_nuxt/bb613f4716450ddf91e2e5bcd0a37b1e.svg
+Shivanshu Gupta
+Software Engineer
+Sergey Hindley
+Tech Lead
+--------------------
+Name: Self.
+Logo: https://thehub-io.imgix.net/files/s3/20230802083523-c305c121cac5b1abc0dccd54a77397d9.jpg?fit=crop&w=300&h=300&auto=format&q=60
+Denmark
+selftime.io
+2022
+1-10
+Healthcare & Life Science, SaaS, Service, Robotics
+B2B
+Bootstrapping
+/_nuxt/edd9986671672f80cd521c1e8de47bd7.svg
+/_nuxt/a4a7c11a98524437a8e57dc7f7ecb83b.svg
+/_nuxt/68160a8c7545790ed518bd87a15089d6.svg
+Julian Jorgensen
+Founder, CEO
+Jimmy Jorgensen
+Founder, CTO
+Søren Theodorsen
+Founder, Head of product and senior robotics engineer
+Erik Kockar
+Founder, Robotics software engineer
+--------------------
+Name: Goodwings
+Logo: https://thehub-io.imgix.net/files/s3/20221129102320-99562488fb26def26f3d4b389c49910b.png?fit=crop&w=300&h=300&auto=format&q=60
+Denmark
+portal.goodwings.com
+2019
+11-50
+Energy & Greentech, IT & Software, SaaS, Travel & Tourism
+B2B
+Seed
+/_nuxt/bb613f4716450ddf91e2e5bcd0a37b1e.svg
+/_nuxt/a1fef3b365fbdd6dd4b82368f861e6a2.svg
+Christian Møller-Holst
+Founder, CEO
+https://www.linkedin.com/in/christianmollerholst/
+Rasmus Brosbøl
+CTO
+https://www.linkedin.com/in/rbrosboel/
+Jacob Erri
+CFO
+Jeppe Jeppesen
+CSO
+Dave Schneider
+CMO
+--------------------
+Name: Reshape Biotech
+Logo: https://thehub-io.imgix.net/files/s3/20230717121921-b63d0f0e8eaea1783b3b297ae53ab1b1.png?fit=crop&w=300&h=300&auto=format&q=60
+Denmark
+reshapebiotech.com
+2018
+11-50
+Healthcare & Life Science, SaaS, Manufacturing, Science & Engineering, Robotics
+B2B
+Seed
+/_nuxt/5ad8b6c154f6ad08924428537b89dfd8.svg
+/_nuxt/bb613f4716450ddf91e2e5bcd0a37b1e.svg
+Carl-Emil Grøn
+Founder, CEO
+https://www.linkedin.com/in/carlemilg/
+Magnus Nyborg Madsen
+Founder, CRO
+https://www.linkedin.com/in/magnusnm/
+Daniel Storgaard
+Founder, CTO
+https://www.linkedin.com/in/danielstor/
+--------------------
+Name: Reshopper
+Logo: https://thehub-io.imgix.net/files/s3/20221213151539-55d5bacbaad79b8859a0c7a3556a114e.png?fit=crop&w=300&h=300&auto=format&q=60
+Denmark
+reshopper.com
+2012
+11-50
+Consumer Goods, Fintech, IT & Software, Marketplace & eCommerce, Retail
+B2C, B2B, Marketplace
+Seed
+/_nuxt/68160a8c7545790ed518bd87a15089d6.svg
+/_nuxt/b5a4f8ecd2f13c06595fde19b1e8023e.svg
+/_nuxt/bb613f4716450ddf91e2e5bcd0a37b1e.svg
+Nicolai Danmark Johannesen
+Founder, CCO
+https://www.linkedin.com/in/nicolaijohannesen/
+Anders Dahl Pape
+Founder, CTO
+https://www.linkedin.com/in/anders-p/
+Jonas Funk Johannessen
+Founder, CDO (Designer & App devolpment)
+https://www.linkedin.com/in/jonasfunk/
+Jeppe Nymark
+Backend developer
+Oliver  Christensen
+Backend developer
+Britt Damm
+Support ansvarlig
+Casper Blom
+CEO
+Alexander  Leth
+COO
+Mark Kronby
+Brand & Marketing Lead
+Nanna Blom
+Storemanager
+Nanna Hvidfeldt Petersen
+Storemanager
+Mads Loll
+Storemanager
+--------------------
+Name: Yuman
+Logo: https://thehub-io.imgix.net/files/s3/20230205092353-2b0b029a08e9d321455f354caa54fe6b.png?fit=crop&w=300&h=300&auto=format&q=60
+Denmark
+yuman-robots.dk
+2022
+1-10
+Healthcare & Life Science, IT & Software, Robotics
+B2B, B2G
+Bootstrapping
+/_nuxt/edd9986671672f80cd521c1e8de47bd7.svg
+/_nuxt/53407a05575517858a467c432f25ced3.svg
+/_nuxt/5ad8b6c154f6ad08924428537b89dfd8.svg
+Sara López Alaguero
+Founder, CEO
+Andrei  Chirtoaca
+Founder, CTO
+--------------------
+Name: Lun
+Logo: https://thehub-io.imgix.net/files/s3/20221121131205-05cd1db698043f786b7db11b296641bc.png?fit=crop&w=300&h=300&auto=format&q=60
+Denmark
+lun.energy
+2022
+11-50
+Energy & Greentech, IT & Software, SaaS
+B2C, B2B, Marketplace
+Seed
+/_nuxt/f4042eb4a9711fcae6ea657d5728ec0f.svg
+/_nuxt/68160a8c7545790ed518bd87a15089d6.svg
+/_nuxt/bb613f4716450ddf91e2e5bcd0a37b1e.svg
+Anders Valentin
+Founder, COO
+Martin Collignon
+Founder, CEO
+Niels  Tindbæk
+Product
+Michael Wolthers
+Engineering
+Henrik Holm
+Engineering
+Agnes Kis
+Engineering
+Martin Grunbaum
+Engineering
+Jonas Krøner
+Engineering
+Uruk Mahmoud
+Operations
+Per Nybo
+Operations
+Mark Østergaard
+Operations
+Kristian Agerbo
+Market Development
+Antoine Ebel
+Market Development
+Dylan Colaco
+Engineering
+Johanne Simonsen
+Operations
+Tomas Vemola
+Product
+--------------------
